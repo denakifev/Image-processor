@@ -1,0 +1,4 @@
+Checks:          '-*' 
+CheckOptions:
+  - key:          'clang-tidy.Suppressions'
+    value:        '*'
